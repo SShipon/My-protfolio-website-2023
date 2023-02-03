@@ -1,0 +1,6 @@
+.bg_background_color{
+    background-color: var(--color-blog) !important;
+}
+.contact_content{
+    font-family: var(--font-family);
+}
