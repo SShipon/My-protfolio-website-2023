@@ -4,7 +4,7 @@ import './header.css'
 import shipon from '../../assets/shipon/311362208_863199621755923_1309193143212560981_n.jpg'
 const Header = () => {
   const menuItems = <React.Fragment>
-  <li><Link to='/home'>Home</Link></li>
+  <li><Link to='/'>Home</Link></li>
   <li><Link to='/about'>About</Link></li>
   <li><Link to='/portfolio'>Portfolio</Link></li>
   <li><Link to='/contact'>Contact</Link></li>
